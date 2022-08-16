@@ -16,7 +16,9 @@
 
 - 📫 How to reach me **laure.chapert@gmail.com**
 
-- 📄 📄 Know about my experiences on my [LinkedIn](https://www.linkedin.com/in/laurechapert/)
+- 📓 Here is my [Portfolio](portfolio-laurec.herokuapp.com/)
+
+- 📄  Know about my experiences on my [LinkedIn](https://www.linkedin.com/in/laurechapert/)
   
 <br />
 
