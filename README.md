@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **laure.chapert@gmail.com**
 
-- 📓 Here is my [Portfolio](portfolio-laurec.herokuapp.com)
+- 📓 Here is my [Portfolio](http://portfolio-laurec.herokuapp.com)
 
 - 📄  Know about my experiences on my [LinkedIn](https://www.linkedin.com/in/laurechapert/)
   
