@@ -11,12 +11,10 @@
   </a>
 
 </div>
-<h3 align="center">I'm a passionate junior web developer from France ! I'm open to work and I'm actively looking for a job in full remote. <br />  Feel free to contact me!</h3>
+<h3 align="center">I'm a passionate web developer from France ! I'm open to work and I'm actively looking for a job in full remote. <br />  Feel free to contact me!</h3>
 <br/>
 
 - 📫 How to reach me **laure.chapert@gmail.com**
-
-- 📓 Here is my [Portfolio](http://portfolio-laurec.herokuapp.com)
 
 - 📄  Know about my experiences on my [LinkedIn](https://www.linkedin.com/in/laurechapert/)
   
