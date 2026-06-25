@@ -10,10 +10,6 @@
     <img src="https://img.shields.io/badge/StackOverflow-grey?style=for-the-badge&logo=stackoverflow&logoColor=orange" alt="Youtube Badge"/>
   </a>
 
-</div>
-<h3 align="center">I'm a passionate web developer from France ! I'm open to work and I'm actively looking for a job in full remote. <br />  Feel free to contact me!</h3>
-<br/>
-
 - 📫 How to reach me **laure.chapert@gmail.com**
 
 - 📄  Know about my experiences on my [LinkedIn](https://www.linkedin.com/in/laurechapert/)
