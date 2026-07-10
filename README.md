@@ -6,9 +6,6 @@
   <a href="https://www.linkedin.com/in/laurechapert/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://stackoverflow.com/users/17316868/laure-chapert">
-    <img src="https://img.shields.io/badge/StackOverflow-grey?style=for-the-badge&logo=stackoverflow&logoColor=orange" alt="Youtube Badge"/>
-  </a>
 
 - 📫 How to reach me **laure.chapert@gmail.com**
 
@@ -35,8 +32,4 @@
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="angular" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40"/> </a></p> 
 
-### 🔥 My stats
-![](https://github-readme-stats.vercel.app/api?username=laurechapert&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=laurechapert&theme=midnight-purple&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=laurechapert&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
