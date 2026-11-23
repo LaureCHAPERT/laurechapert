@@ -18,7 +18,7 @@
 
 ### 👩‍💻 A little about me
 
-I'm a French full-stack developer, coding professionally since 2021.
+I'm a French full-stack developer, coding professionally since 2020.
 
 My experience spans both front-end and back-end development, primarily with **PHP, Symfony, React and TypeScript**.
 
