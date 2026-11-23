@@ -1,35 +1,58 @@
-<h1 align="center">Hello 👋, I'm Laure !</h1>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges"align="center">
-  <a href="https://www.linkedin.com/in/laurechapert/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
 
-- 📫 How to reach me **laure.chapert@gmail.com**
+<h1 align="center">Hi there, I'm Laure! 👋</h1>
 
-- 📄  Know about my experiences on my [LinkedIn](https://www.linkedin.com/in/laurechapert/)
-  
-<br />
+<p align="center">
+  <strong>Full-stack Developer | UX/UI Enthusiast | AI-Assisted Development</strong>
+</p>
 
+<p align="center">
+  Building meaningful web applications, one commit at a time. 🌱
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" alt="symfony" width="40" height="40"/> </a>
-  <a href="https://vuejs.org/"target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/> </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-    <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-original.svg" alt="php" width="40" height="40"/> </a>  
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="angular" width="40" height="40"/> </a>
-  <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40"/> </a></p> 
+<p align="center">
+  <a href="https://www.linkedin.com/in/laurechapert/">LinkedIn</a> •
+  <a href="mailto:laure.chapert@gmail.com">Email me</a>
+</p>
 
+---
+
+### 👩‍💻 A little about me
+
+I'm a French full-stack developer, coding professionally since 2021.
+
+My experience spans both front-end and back-end development, primarily with **PHP, Symfony, React and TypeScript**.
+
+I've worked on SaaS applications in different fields, from **HR and employee representation at QuickMS** to **sustainability and CSR at Zei**.
+
+What I enjoy most:
+- 🎨 Creating intuitive, accessible and user-friendly interfaces.
+- 🧩 Solving problems and writing clean, maintainable code.
+- 🤖 Exploring AI-assisted development, including tools like Claude Code, to improve my workflow.
+- 🌱 Discovering new technologies and continuously learning.
+
+**My stack has its favorites, but I'm always open to new tools, languages and challenges!**
+
+### 🛠️ Tech & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,symfony,react,ts,python,docker&theme=dark" alt="PHP, Symfony, React, TypeScript, Python, Docker" />
+</p>
+
+**Also familiar with:** JavaScript, Vue.js, SQL, Git, GitLab, REST APIs, Linux, testing and code quality tools.
+
+### ✨ Beyond the code
+
+I believe good software should be both **useful and enjoyable to use**.
+
+I'm particularly interested in projects that combine technology, thoughtful design and a positive impact.
+
+And while I love learning new things, I also believe that collaboration, curiosity and a little humor make development much more enjoyable.
+
+---
+
+### 📬 Let's connect!
+
+I'm open to new opportunities, especially **fully remote positions**.
+
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/laurechapert/) or by [email](mailto:laure.chapert@gmail.com).
 
